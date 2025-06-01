@@ -39,8 +39,8 @@ Review visual summaries for high-level trends or drill down into specific attrib
 Export reports for presentations or meetings
 
 *Future Improvements*
-Automate data refresh with direct connection to survey tools
+- Automate data refresh with direct connection to survey tools
 
-Add predictive analytics to forecast leadership development needs
+- Add predictive analytics to forecast leadership development needs
 
-Enhance accessibility features for broader stakeholder use
+- Enhance accessibility features for broader stakeholder use
